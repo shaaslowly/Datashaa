@@ -1,5 +1,13 @@
 {
   "tokens": [],
-  "bots": [],
-  "users": [{"user":"shaa","pass":"shaa","role":"owner"}]
+  "bots": [
+    "08956299098"
+  ],
+  "users": [
+    {
+      "user": "shaa",
+      "pass": "shaa",
+      "role": "owner"
+    }
+  ]
 }
